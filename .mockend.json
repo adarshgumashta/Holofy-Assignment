@@ -1,0 +1,13 @@
+{
+  "categories": {
+    "name": "string",
+    "videos": "Video[]"
+  },
+  "Video": {
+    "description": "string",
+    "sources": "string",
+	"subtitle": "string",
+	"thumb": "string",
+	"title": "string"
+	}
+}
